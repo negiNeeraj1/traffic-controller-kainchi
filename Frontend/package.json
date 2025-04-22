@@ -10,10 +10,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD:Frontend/package.json
     "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.5.1"
+=======
+    "@tailwindcss/postcss": "^4.1.4",
+    "@tailwindcss/vite": "^4.1.4",
+    "lucide-react": "^0.503.0",
+    "postcss": "^8.5.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.4"
+>>>>>>> b0fd1ad8c706aad23062a351d4b32c207fb1011a:my-app/package.json
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
